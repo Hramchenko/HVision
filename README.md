@@ -1,2 +1,2 @@
 # HVision
-Minimalistic computer vision library
+Minimalistic Computer Vision library.
